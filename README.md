@@ -1,7 +1,7 @@
 # Data-Science
 Projects and Activities
 
-These are 4 Data projects I did from the OpenClassrooms courses I began 2 months ago :
+These are 4 Data projects I did from the ENSAI - OpenClassrooms courses :
 
 - Perform an Exploratory Data Analysis
 - Perform an Initial Data Analysis
